@@ -14,6 +14,6 @@
 - SQL
 - Bash
 
-###Current Projects:
+### Current Projects:
 - AI-powered client-to-counsellor matching program (part of international internship)
 - StreamDeck API to AirTouch API integration, enabling household A/C control via StreamDeck SDK
